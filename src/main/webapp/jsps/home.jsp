@@ -4,25 +4,25 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Prodapt Solutions Pvt Ltd- Home Page</title>
-<link href="images/prodapt.jpg" rel="icon">
+<title>Clovertex technologies- Home Page</title>
+<link href="images/clovertex_without_tagline-242x55.png" rel="icon">
 </head>
 </head>
 <body>
-<h1 align="center">Welcome to Tech Academics.</h1>
+<h1 align="center">Welcome to Clovertex Technologies.</h1>
 <h2 align="center">IT Services </h2>
 <hr>
 <div style="text-align: center;">
 	<span>
-		<img src="images/prodapt.jpg" alt="" width="100">
+		<img src="images/clovertex_without_tagline-242x55.png" alt="" width="100">
 	</span>
 	<span style="font-weight: bold;">
-          	Prodapt Solutions Pvt Ltd, 
-		Economic Zone, Thoraipakkam,
-		chennai.
-		+91-9866430409,
+          	clovertex Technologies, 
+		kondapur, Telangana,
+		Hyderabad.
+		+91-7702645730,
 		<br>
-		<a href="mailto:madhusudhanachari.a@prodapt.com">Mail to Prodapt Solutions</a>
+		<a href="mailto:kishore.chennuboina@clovertex">Mail to clovertex technologies</a>
 	</span>
 </div>
 <hr>
