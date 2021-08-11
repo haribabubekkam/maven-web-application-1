@@ -5,7 +5,7 @@
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 <title>Clovertex technologies- Home Page</title>
-<link href="images/clovertex_without_tagline-242x55.png" rel="icon">
+<link href="images/prodapt.jpg" rel="icon">
 </head>
 </head>
 <body>
@@ -14,7 +14,7 @@
 <hr>
 <div style="text-align: center;">
 	<span>
-		<img src="images/clovertex_without_tagline-242x55.png" alt="" width="100">
+		<img src="images/prodapt.jpg" alt="" width="100">
 	</span>
 	<span style="font-weight: bold;">
           	clovertex Technologies, 
