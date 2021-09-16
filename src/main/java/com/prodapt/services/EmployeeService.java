@@ -3,7 +3,6 @@ package com.prodapt.services;
 import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 import javax.servlet.http.HttpSession;
-import java.io.NullPointerException;
 
 import org.json.JSONException;
 import org.json.JSONObject;
@@ -20,7 +19,7 @@ public class EmployeeService {
 	@RequestMapping(value = "/getEmployeeDetails", method = RequestMethod.GET)
 	@ResponseBody
 	String uploadImage(HttpServletRequest request, HttpServletResponse response, HttpSession httpSession)
-			throws NullPointerException  {
+			throws JSONException  {
 
 		JSONObject js = new JSONObject();
 		js.put("Name", "Madhusudhanachari");
@@ -29,6 +28,6 @@ public class EmployeeService {
 		js.put("Position", "Sr.Software Engineer");
 		js.put("IT Services", "Cloud Platform");
 
-		return js.toString();
+		return js.parseInt();
 }
 }
