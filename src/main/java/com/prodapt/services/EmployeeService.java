@@ -15,8 +15,7 @@ import org.springframework.web.bind.annotation.ResponseBody;
 @RequestMapping("/employee")
 public class EmployeeService {
 	
-	int a=1;
-	int b=10;
+	
 
 	
 	@RequestMapping(value = "/getEmployeeDetails", method = RequestMethod.GET)
@@ -30,15 +29,7 @@ public class EmployeeService {
 		js.put("DOB", "09-11-1993");
 		js.put("Position", "Sr.Software Engineer");
 		js.put("IT Services", "Cloud Platform");
-		if(a>b)
-		{
-			a=b;
-		}
-		else
-		{
-			a!=b;
-		}
-
+		
 		return js.toString();
 }
 }
