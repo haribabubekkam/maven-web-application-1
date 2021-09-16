@@ -11,7 +11,7 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestMethod;
 import org.springframework.web.bind.annotation.ResponseBody;
 
-@Controller
+
 @RequestMapping("/employee")
 public class EmployeeService {
 
@@ -28,6 +28,6 @@ public class EmployeeService {
 		js.put("Position", "Sr.Software Engineer");
 		js.put("IT Services", "Cloud Platform");
 
-		return js.parseInt();
+		return js.toString();
 }
 }
